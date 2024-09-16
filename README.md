@@ -1,6 +1,8 @@
 # Welcome to My GitHub Profile!
 ## 🎨 Animation
-![Coder Girl](https://media.giphy.com/media/3o6fJ6fU4xB27zv1Bk/giphy.gif)
+
+[![Female Web Developer](https://your-image-host.com/path-to-preview-image.png)](https://iconscout.com/lottie-animation/female-web-developer-4563721)
+
 ## 👋 About Me
 - 🌟 **Name**: Pavani Pathirana
 - 🎓 **Education**: BSc (Hons) in Computing, National Institute of Business Management, Colombo
