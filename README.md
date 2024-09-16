@@ -1,16 +1,27 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**pavani-pathirana/pavani-pathirana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 About Me
+- 🌟 **Name**: Pavani Pathirana
+- 🎓 **Education**: BSc (Hons) in Computing, National Institute of Business Management, Colombo
+- 💼 **Current Focus**: Developing an Online Seat Booking System with Angular and ASP.NET Core
+- 🌍 **Location**: Colombo, Sri Lanka
+- 📫 **Contact**: pavani.pathirana@example.com
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages**: HTML, CSS, JavaScript, C#, Java
+- **Technologies**: MERN Stack, ASP.NET Core, Entity Framework, MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/pavani-pathirana/)
+- [Twitter](https://twitter.com/pavani_pathirana)
+
+## 📈 GitHub Stats
+![Pavani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanipathirana&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
+
+## ✨ Achievements
+- Completed a [full-stack development bootcamp](https://github.com/your-repo-link)
+- Contributed to open-source projects in [JavaScript](https://github.com/your-repo-link) and [C#](https://github.com/your-repo-link)
+
+---
+
+Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
