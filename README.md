@@ -9,18 +9,18 @@
 
 ## 🛠 Skills
 - **Languages**: 
-  ![HTML](https://media.giphy.com/media/3o6fJ2Qb97gB3bIZ4Y/giphy.gif) 
-  ![CSS](https://media.giphy.com/media/xTiTnxPNjCzQZpCFUS/giphy.gif) 
-  ![JavaScript](https://media.giphy.com/media/3o6fJ6k9GiSgH9xDva/giphy.gif) 
-  ![Python](https://media.giphy.com/media/3o6fJ8iP9RukpABw0I/giphy.gif) 
-  ![Java](https://media.giphy.com/media/3o6fJ3M1tC5WqvZnPA/giphy.gif) 
-  ![C#](https://media.giphy.com/media/3o6fJ8KZhCm2GxQojK/giphy.gif)
+  ![HTML](https://img.shields.io/badge/HTML-%23E34F26?logo=html5&logoColor=white&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/HTML)
+  ![CSS](https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/CSS)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black&style=for-the-badge&link=https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  ![Python](https://img.shields.io/badge/Python-%233776AB?logo=python&logoColor=white&style=for-the-badge&link=https://www.python.org)
+  ![Java](https://img.shields.io/badge/Java-%23F7DF1E?logo=java&logoColor=white&style=for-the-badge&link=https://www.java.com)
+  ![C#](https://img.shields.io/badge/C%23-%23239120?logo=csharp&logoColor=white&style=for-the-badge&link=https://docs.microsoft.com/en-us/dotnet/csharp/)
 
 - **Technologies**: 
-  ![MERN](https://media.giphy.com/media/3o6fJ9Mb6g8fG5OQg4/giphy.gif) 
-  ![Angular](https://media.giphy.com/media/3o6fJ8s7V4A3X2Q7Wk/giphy.gif) 
-  ![ASP.NET](https://media.giphy.com/media/3o6fJ1Q0g1r6sD3FFS/giphy.gif) 
-  ![MySQL](https://media.giphy.com/media/3o6fJ6h3LrV2gOKvY8/giphy.gif)
+  ![MERN](https://img.shields.io/badge/MERN-%23000000?logo=mongodb&logoColor=47A248&style=for-the-badge)
+  ![Angular](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white&style=for-the-badge)
+  ![ASP.NET](https://img.shields.io/badge/ASP.NET-%235C2D91?logo=aspdotnet&logoColor=white&style=for-the-badge)
+  ![MySQL](https://img.shields.io/badge/MySQL-%234479A1?logo=mysql&logoColor=white&style=for-the-badge)
 
 
 
