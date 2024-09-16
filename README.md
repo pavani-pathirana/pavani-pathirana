@@ -8,11 +8,12 @@
 - 📫 **Contact**: pavani.pathirana@example.com
 
 ## 🛠 Skills
-- **Languages**: HTML, CSS, JavaScript, C#, Java
-- **Technologies**: MERN Stack, ASP.NET Core, Entity Framework, MySQL
+- **Languages**: :html5: :css3: :javascript: :snake: :java: :csharp:
+- **Technologies**: ![MERN](https://img.shields.io/badge/MERN-000000?logo=mongodb&logoColor=47A248) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?logo=aspdotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/pavani-pathirana/)
+- [LinkedIn](www.linkedin.com/in/pavani-pathirana-2b6280213)
 - [Twitter](https://twitter.com/pavani_pathirana)
 
 ## 📈 GitHub Stats
