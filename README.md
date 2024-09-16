@@ -14,7 +14,8 @@
 
 
 ## 🔗 Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white) [Pavani Pathirana]([https://www.linkedin.com/in/pavani-pathirana/](https://www.linkedin.com/in/pavani-pathirana-2b6280213/))
+- [![LinkedIn](https://img.icons8.com/ios/50/000000/linkedin.png)](https://www.linkedin.com/in/pavani-pathirana-2b6280213/)
+
 
 
 
