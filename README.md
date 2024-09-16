@@ -1,5 +1,5 @@
 # Welcome to My GitHub Profile!
-## 🎨 Animation
+
 
 <img src="https://github.com/pavani-pathirana/pavani-pathirana/blob/main/output-onlinegiftools.gif" width="300" alt="Coder Girl">
 
@@ -35,14 +35,3 @@
 
 
 
-
-## 📈 GitHub Stats
-![Pavani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanipathirana&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
-
-## ✨ Achievements
-- Completed a [full-stack development bootcamp](https://github.com/your-repo-link)
-- Contributed to open-source projects in [JavaScript](https://github.com/your-repo-link) and [C#](https://github.com/your-repo-link)
-
----
-
-Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
