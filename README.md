@@ -3,13 +3,14 @@
 ## 👋 About Me
 - 🌟 **Name**: Pavani Pathirana
 - 🎓 **Education**: BSc (Hons) in Computing, National Institute of Business Management, Colombo
-- 💼 **Current Focus**: Developing an Online Seat Booking System with Angular and ASP.NET Core
+- 💼 **Current Focus**: 
 - 🌍 **Location**: Colombo, Sri Lanka
-- 📫 **Contact**: pavani.pathirana@example.com
+- 📫 **Contact**: pavanipathirana@outlook.com
 
 ## 🛠 Skills
-- **Languages**: :html5: :css3: :javascript: :snake: :java: :csharp:
+- **Languages**: ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Java](https://img.shields.io/badge/-Java-E34F26?logo=java&logoColor=white) ![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)
 - **Technologies**: ![MERN](https://img.shields.io/badge/MERN-000000?logo=mongodb&logoColor=47A248) ![Angular](https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white) ![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?logo=aspdotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+
 
 
 ## 🔗 Connect with Me
