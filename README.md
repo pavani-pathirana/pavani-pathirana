@@ -14,8 +14,9 @@
 
 
 ## 🔗 Connect with Me
-- [LinkedIn](www.linkedin.com/in/pavani-pathirana-2b6280213)
-- [Twitter](https://twitter.com/pavani_pathirana)
+- ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white) [Pavani Pathirana]([https://www.linkedin.com/in/pavani-pathirana/](https://www.linkedin.com/in/pavani-pathirana-2b6280213/))
+
+
 
 ## 📈 GitHub Stats
 ![Pavani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pavanipathirana&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=default)
