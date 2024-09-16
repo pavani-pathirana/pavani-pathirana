@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 ## 🎨 Animation
 
-[![Female Web Developer](https://your-image-host.com/path-to-preview-image.png)](https://iconscout.com/lottie-animation/female-web-developer-4563721)
+[![Female Web Developer](https://github.com/pavani-pathirana/pavani-pathirana/blob/main/104fdca210b0c914e704af5febb91ca8.gif)
 
 ## 👋 About Me
 - 🌟 **Name**: Pavani Pathirana
