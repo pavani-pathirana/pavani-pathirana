@@ -1,5 +1,6 @@
 # Welcome to My GitHub Profile!
-
+## 🎨 Animation
+![Coder Girl](https://media.giphy.com/media/3o6fJ6fU4xB27zv1Bk/giphy.gif)
 ## 👋 About Me
 - 🌟 **Name**: Pavani Pathirana
 - 🎓 **Education**: BSc (Hons) in Computing, National Institute of Business Management, Colombo
