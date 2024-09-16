@@ -1,7 +1,8 @@
 # Welcome to My GitHub Profile!
 ## 🎨 Animation
 
-[![Female Web Developer](https://github.com/pavani-pathirana/pavani-pathirana/blob/main/output-onlinegiftools.gif)
+<img src="https://github.com/pavani-pathirana/pavani-pathirana/blob/main/output-onlinegiftools.gif" width="300" alt="Coder Girl">
+
 
 ## 👋 About Me
 - 🌟 **Name**: Pavani Pathirana
