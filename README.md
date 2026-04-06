@@ -6,8 +6,8 @@
 
 ## 👋 About Me
 - 🌟 **Name**: Pavani Pathirana
-- 🎓 **Education**: BSc (Hons) in Computing, Coventry University.
-Diploma in Software Engineering University of Sabaragamuwa.
+- 🎓 **Education**: BSc (Hons) in Computing, Coventry University
+-Diploma in Software Engineering University of Sabaragamuwa
 - 💼 **Current Focus**: 
 - 🌍 **Location**: Colombo, Sri Lanka
 - 📫 **Contact**: pavanipathirana@outlook.com
