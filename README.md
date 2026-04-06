@@ -5,13 +5,18 @@
 
 
 ## 👋 About Me
-- 🌟 **Name**: Pavani Pathirana
+- 🌟 **Name**: Pavani Pathirana  
+- 💼 **Current Focus**: Software Development & AI Projects  
+- 🌍 **Location**: Colombo, Sri Lanka  
+- 📫 **Contact**: pavanipathirana@outlook.com  
+
+---
+
 ## 🎓 Education
 - 🎓 **BSc (Hons) in Computing** — Coventry University  
-- 💻 **Diploma in Software Engineering** — University of Sabaragamuwa
-- 💼 **Current Focus**: 
-- 🌍 **Location**: Colombo, Sri Lanka
-- 📫 **Contact**: pavanipathirana@outlook.com
+- 💻 **Diploma in Software Engineering** — Sabaragamuwa University of Sri Lanka  
+
+---
 
 ## 🛠 Skills
 - **Languages**: 
