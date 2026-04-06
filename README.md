@@ -13,8 +13,8 @@
 ---
 
 ## 🎓 Education
-- 🎓 **BSc (Hons) in Computing** — Coventry University  
-- 💻 **Diploma in Software Engineering** — Sabaragamuwa University of Sri Lanka  
+- 🎓 **BSc (Hons) in Computing** Coventry University  
+- 💻 **Diploma in Software Engineering** Sabaragamuwa University of Sri Lanka  
 
 ---
 
