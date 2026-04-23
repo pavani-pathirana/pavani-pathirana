@@ -6,7 +6,7 @@
 
 ## 👋 About Me
 - 🌟 **Name**: Pavani Pathirana  
-- 💼 **Current Focus**: Software Development & AI Projects  
+- 💼 **Current Focus**: Software Development & AI Projects.  
 - 🌍 **Location**: Colombo, Sri Lanka  
 - 📫 **Contact**: pavanipathirana@outlook.com  
 
